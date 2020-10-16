@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding-top: 600px;
+    text-align: center;
+}
+
+#image {
+    width: 170px;
+    border-radius: 50%;
+    height:150px;
+}
+
+#hobby {
+    position: absolute;
+    overflow: hidden;
+    height: 700px;
+    color: red;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    opacity: 0.83;
+    background: linear-gradient(#0e909c 0%, #bf6643 100%);
+    display: table;
+    height: 100%;
+    width: 100%;
